@@ -13,6 +13,7 @@ c. Perform the calculation and display the answers clearly.
 <br>
 <br>
 2. The Modified Calculator Project: In the prototype of the calculator program, the following is added:
+<br>
 •	Repeating (the user can perform arithmetic calculations repeatedly and without restarting the program every time) and ending the program as per choice.
 •	Adding comments and explaining the code structures and elements.
 •	Adding additional mathematical functionality, e.g., advanced/scientific calculations, ability to do arithmetic calculations with more than two values.
